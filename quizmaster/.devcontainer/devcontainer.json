@@ -1,0 +1,14 @@
+{
+    "name": "Landing page music store",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ritwickdey.liveserver"
+            
+
+            ]
+        }
+    },
+    "forwardPorts": [3000]
+
+}
